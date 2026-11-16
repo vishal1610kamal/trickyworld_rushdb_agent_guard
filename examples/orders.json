@@ -1,0 +1,13 @@
+[
+  {"name": "Acme", "plan": "enterprise", "country": "US", "ORDER": [
+    {"status": "paid", "amount": 120, "placed": "2026-10-02T09:00:00Z"},
+    {"status": "refunded_full", "amount": 80, "placed": "2026-10-05T10:00:00Z"}
+  ]},
+  {"name": "Globex", "plan": "pro", "country": "DE", "ORDER": [
+    {"status": "paid", "amount": "45.50", "placed": "2026-10-06T11:00:00Z"}
+  ]},
+  {"name": "Initech", "plan": "enterprise", "country": "IN", "ORDER": [
+    {"status": "pending", "amount": 300, "placed": "2026-10-09T12:00:00Z"},
+    {"status": "refunded_partial", "amount": 60, "placed": "2026-10-11T13:00:00Z"}
+  ]}
+]
